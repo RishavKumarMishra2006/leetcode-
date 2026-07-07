@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
 | [0498-diagonal-traverse](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0498-diagonal-traverse) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [1929-concatenation-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1929-concatenation-of-array) |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
