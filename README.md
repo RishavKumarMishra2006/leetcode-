@@ -5,17 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Array
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0498-diagonal-traverse) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [1929-concatenation-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1929-concatenation-of-array) |
