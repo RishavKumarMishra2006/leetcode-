@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0498-diagonal-traverse) |
 | [1301-number-of-paths-with-max-score](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -69,4 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
