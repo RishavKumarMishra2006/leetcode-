@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0498-diagonal-traverse) |
 | [1301-number-of-paths-with-max-score](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [1929-concatenation-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
