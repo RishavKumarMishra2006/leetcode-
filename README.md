@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
