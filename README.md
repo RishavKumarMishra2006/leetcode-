@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -168,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Linked List
 |  |
 | ------- |
