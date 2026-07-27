@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0396-rotate-function) |
 | [0498-diagonal-traverse](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1301-number-of-paths-with-max-score) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
