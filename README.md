@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
