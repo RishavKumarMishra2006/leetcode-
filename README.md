@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
