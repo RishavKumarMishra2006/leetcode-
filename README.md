@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
 | [1929-concatenation-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
