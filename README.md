@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
+| [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1975-maximum-matrix-sum) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -231,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
