@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0486-predict-the-winner) |
 | [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
