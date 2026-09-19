@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
