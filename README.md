@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/3731-find-missing-elements) |
