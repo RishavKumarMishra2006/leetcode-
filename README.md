@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1096-brace-expansion-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/2685-count-the-number-of-complete-components) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/RishavKumarMishra2006/leetcode-/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
